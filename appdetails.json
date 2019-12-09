@@ -1,0 +1,18 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"1.0",
+    "title":"Update Available",
+    "description":"Please Update Your app to the latest Version.",
+    "size":""
+  }],
+  "blocked":[
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Nuremberg","country":"Germany","image":"germany","ip":"178.63.238.116","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"178.63.238.116","active":"true","signal":"b"}
+  ]
+}

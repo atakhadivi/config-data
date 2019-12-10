@@ -13,6 +13,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Nuremberg","country":"Germany","image":"germany","ip":"178.63.238.116","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Washington","country":"United States","image":"unitedstates","ip":"192.227.158.45","active":"true","signal":"a"}
+    {"id":1, "file":1, "city":"Washington","country":"United States","image":"unitedstates","ip":"192.227.158.45","active":"true","signal":"a"}
   ]
 }

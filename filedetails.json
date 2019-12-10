@@ -112,10 +112,10 @@ aecd43ebc11385eab03662acf88cb54a
 </tls-auth>"},
 {"id":1,"file":"client
 dev tun
-proto udp
+proto tcp
 sndbuf 0
 rcvbuf 0
-remote 192.227.158.45 1194
+remote 192.227.158.45 443
 resolv-retry infinite
 nobind
 persist-key

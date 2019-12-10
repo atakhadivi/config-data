@@ -2,10 +2,10 @@
 "ovpn_file":[
   {"id":0,"file":"client
 dev tun
-proto udp
+proto tcp
 sndbuf 0
 rcvbuf 0
-remote 178.63.238.116 1194
+remote 178.63.238.116 443
 resolv-retry infinite
 nobind
 persist-key
